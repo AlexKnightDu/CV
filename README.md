@@ -19,7 +19,7 @@
 
 
 ## 技术背景
-- 主要使用MacOS，根据不同场景使用Kali, Arch, CentOS与Ubuntu，熟悉Vim，对awk,sed有一点了解
+- 主要使用MacOS，根据不同场景使用Kali, Arch, CentOS与Ubuntu，熟悉Vim，对Git有了解，对awk,sed有一点了解
 - 比较熟悉Python，用过Java，C/C++，对JavaScript，SQL，MATLAB(R)有了解，对Lisp，Haskell有一点了解。
 - 对机器学习，图形学，信息安全与密码学有过学习
 - 对网页以及后端开发，计算机视觉，SLAM，Cuda有一点了解
